@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Melroy
 
-<!--
-**MELROY88/MELROY88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Marketing Leader | 17+ years in GCC | Learning Data Science & AI**
 
-Here are some ideas to get you started:
+Based in Dubai, UAE. I have led digital for cinema, tourism and retail brands across the UAE, Qatar, Oman, Bahrain and Saudi Arabia. Former Head of Digital at Novo Cinemas. Past roles at the Royal Commission for AlUla and Apparel Group.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing now
+
+Learning Python, data analysis and AI. Using data to make marketing smarter. Building small, useful projects (below).
+
+## Projects
+
+| Project | What it does |
+|---|---|
+| [campaign-performance-analysis](https://github.com/MELROY88/campaign-performance-analysis) | Analyses ad campaigns: ROAS, CPA, best channels |
+| [customer-segmentation](https://github.com/MELROY88/customer-segmentation) | Groups customers with machine learning (K-Means) |
+| [ai-marketing-prompts](https://github.com/MELROY88/ai-marketing-prompts) | My tested AI prompts for marketers |
+
+## Skills
+
+`Digital Strategy` `Paid Media` `SEO` `CRM` `Analytics` `Python` `pandas` `scikit-learn` `Generative AI`
+
+## Connect
+
+Portfolio: [melroy.lovable.app](https://melroy.lovable.app)
