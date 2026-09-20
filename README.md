@@ -23,3 +23,5 @@ Learning Python, data analysis and AI. Using data to make marketing smarter. Bui
 ## Connect
 
 Portfolio: [melroy.lovable.app](https://melroy.lovable.app)
+
+LinkedIn: [linkedin.com/in/melroylopes](https://www.linkedin.com/in/melroylopes/)
