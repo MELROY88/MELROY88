@@ -24,6 +24,7 @@ My background in Data Science has also changed the way I approach marketing. I u
 
 | Project | What it does |
 |---|---|
+| [ga4-ad-performance-dashboard](https://github.com/MELROY88/ga4-ad-performance-dashboard) | Interactive GA4 and paid media dashboard: Python analysis, anomaly detection, SQL and a Power BI build kit |
 | [campaign-performance-analysis](https://github.com/MELROY88/campaign-performance-analysis) | Analyses ad campaigns: ROAS, CPA, best channels |
 | [customer-segmentation](https://github.com/MELROY88/customer-segmentation) | Groups customers with machine learning (K-Means) |
 | [ai-marketing-prompts](https://github.com/MELROY88/ai-marketing-prompts) | My tested AI prompts for marketers |
